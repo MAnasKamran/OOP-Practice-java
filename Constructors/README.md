@@ -40,6 +40,14 @@ It is mainly used to initialize data members of a class.
 - A constructor is automatically called when an object is created.
 - You can overload constructors to provide multiple ways of initializing an object.
 
+- Timer.java
+-------------
+- Demonstrates parameterized constructors to initialize object state
+- Shows method usage and looping for countdown
+- Includes exception handling for Thread interruptions
+- Prints formatted time using display() method
+
+
 ## 📂 Examples in this folder:
 - Rectangle.java (Non-parameterized and parameterized constructors)
 - Account.java (Constructors with deposit/withdraw methods)
