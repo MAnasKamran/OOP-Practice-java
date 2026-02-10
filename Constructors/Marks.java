@@ -1,4 +1,5 @@
-package Lab2;
+// Demonstrates non-parameterized and parameterized constructors
+// with a method to calculate the sum of marks
 
 public class Marks {
     double A1;
@@ -28,3 +29,4 @@ public static void main(String [] args){
     System.out.println("Sum of m2: " + m2.calculateSum());
 }
 }
+
