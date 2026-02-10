@@ -9,42 +9,42 @@ It is mainly used to initialize data members of a class.
 
 ## Concepts Covered:
 
-• Non-parameterized constructors
+- Non-parameterized constructors
 
-• Parameterized constructors
+- Parameterized constructors
 
-• Constructor overloading
+- Constructor overloading
 
-• Copy constructors
+- Copy constructors
 
 ## 🧠 Supporting OOP Concepts:
 
-• Classes and Objects
+- Classes and Objects
 
-• Methods
+- Methods
 
-• Object creation
+- Object creation
 
 ## 🎯 What You’ll Learn:
 
-• How constructors initialize objects
+- How constructors initialize objects
 
-• How different constructors are used during object creation
+- How different constructors are used during object creation
 
-• How to create a new object from an existing object using a copy constructor
+- How to create a new object from an existing object using a copy constructor
 
 ## 💡 Notes:
-• Constructors do not have a return type, not even void.
-• A constructor is automatically called when an object is created.
-• You can overload constructors to provide multiple ways of initializing an object.
+- Constructors do not have a return type, not even void.
+- A constructor is automatically called when an object is created.
+- You can overload constructors to provide multiple ways of initializing an object.
 
 ## 📂 Examples in this folder:
-• Rectangle.java (Non-parameterized and parameterized constructors)
-• Account.java (Constructors with deposit/withdraw methods)
-• Circle.java (Parameterized constructors)
-• Distance.java
-• Marks.java
-• Time.java
+- Rectangle.java (Non-parameterized and parameterized constructors)
+- Account.java (Constructors with deposit/withdraw methods)
+- Circle.java (Parameterized constructors)
+- Distance.java
+- Marks.java
+- Time.java
 - CopyConstructorExample.java
 
 Each example is simple and focuses on understanding constructors in Java.
