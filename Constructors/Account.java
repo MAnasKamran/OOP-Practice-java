@@ -1,5 +1,3 @@
-package Lab2;
-
 // Demonstrates use of non-parameterized and parameterized constructors
 // along with basic account operations
 
@@ -62,3 +60,4 @@ public class Account {
         acc3.Display();
     }
 }
+
