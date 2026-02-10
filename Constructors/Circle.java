@@ -1,4 +1,6 @@
-package Lab2;
+// Demonstrates non-parameterized and parameterized constructors
+// with a method to calculate circumference
+
 public class Circle {
     double radius;
     double pi;
@@ -24,3 +26,4 @@ public class Circle {
         System.out.println(c3.calculateCircumference());
     }
 }
+
