@@ -1,4 +1,5 @@
-package Lab2;
+// Demonstrates non-parameterized and parameterized constructors
+// with a method to display time
 
 public class Time {
     int hours;
@@ -28,3 +29,4 @@ public class Time {
         t2.display();
     }
 }
+
