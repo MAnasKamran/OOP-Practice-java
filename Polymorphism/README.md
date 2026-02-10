@@ -7,27 +7,27 @@ This folder contains beginner-friendly Java examples demonstrating polymorphism 
 
 ## Concepts Covered:
 
-• Method overloading (compile-time polymorphism)
+- Method overloading (compile-time polymorphism)
 
-• Method overriding (runtime polymorphism)
+- Method overriding (runtime polymorphism)
 
-• Using polymorphism with parent and child classes
+- Using polymorphism with parent and child classes
 
 ## 🧠 Supporting Concepts:
 
-• Classes & Objects
+- Classes & Objects
 
-• Methods
+- Methods
 
-• Inheritance
+- Inheritance
 
 ## 🎯 What You’ll Learn:
 
-• How the same method name can behave differently based on parameters or object type
+- How the same method name can behave differently based on parameters or object type
 
-• How polymorphism improves code flexibility and reusability
+- How polymorphism improves code flexibility and reusability
 
-• How to combine polymorphism with inheritance for real-world designs
+- How to combine polymorphism with inheritance for real-world designs
 
 
 ## 💡 Notes:
