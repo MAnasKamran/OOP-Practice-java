@@ -1,4 +1,3 @@
-package Lab2;
 // Demonstrates constructor overloading using
 // non-parameterized and parameterized constructors:
 
@@ -52,3 +51,4 @@ public class runner {
 
     }
 }
+
