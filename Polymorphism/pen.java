@@ -1,4 +1,6 @@
-package Polymorphism;
+// Demonstrates basic polymorphism using objects of the same class
+// Each object can behave differently based on its own data
+
 class Pen{
     String color;
     String type;
@@ -31,3 +33,4 @@ public class pen {
         pen2.printType();
     }
 }
+
