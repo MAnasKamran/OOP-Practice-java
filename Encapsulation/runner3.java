@@ -1,4 +1,6 @@
-package Lab2;
+// Demonstrates encapsulation in Java using private fields
+// with public setter methods and object manipulation
+
 class Point {
     private int x;
     private int y;
@@ -37,3 +39,4 @@ public class runner3 {
     }
 
 }
+
