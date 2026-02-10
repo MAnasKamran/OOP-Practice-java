@@ -1,4 +1,5 @@
-package Lab2;
+// Demonstrates non-parameterized and parameterized constructors
+// with a method to display distance
 
 public class Distance {
     int feet;
@@ -26,3 +27,4 @@ public class Distance {
         d2.display();
     }
 }
+
