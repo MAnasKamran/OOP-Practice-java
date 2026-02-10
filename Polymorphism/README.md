@@ -1,6 +1,6 @@
 ## Polymorphism in Java 🔄 :
 
-Polymorphism is an OOP concept that allows a single method or object to take many forms.
+Polymorphism is an OOP concept that allows a method to take many forms.
 It enables the same method name to behave differently depending on the object or parameters used.
 
 This folder contains beginner-friendly Java examples demonstrating polymorphism in Object-Oriented Programming.
