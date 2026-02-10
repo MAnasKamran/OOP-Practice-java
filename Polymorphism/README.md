@@ -30,5 +30,21 @@ This folder contains beginner-friendly Java examples demonstrating polymorphism 
 • How to combine polymorphism with inheritance for real-world designs
 
 
+## 💡 Notes:
+
+- Compile-time polymorphism is achieved via method overloading.
+
+- Runtime polymorphism is achieved via method overriding.
+
+- Polymorphism helps write cleaner and more reusable code.
+
+## 📂 Examples in this folder:
+
+- PenExample.java → Demonstrates basic object-level polymorphism
+
+- StudentMethodOverload.java → Demonstrates compile-time polymorphism using method overloading
+
+- AnimalOverrideExample.java → Demonstrates runtime polymorphism using method overriding
+
 
 Each example focuses on practical use of polymorphism in Java.
