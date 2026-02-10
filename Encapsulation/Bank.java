@@ -1,3 +1,6 @@
+// Demonstrates encapsulation using private fields with public getter and setter methods
+// Also shows different access modifiers (public, protected, private)
+
 package bank;
 class Account{
 public String name;
@@ -24,4 +27,5 @@ public class Bank{
 
     }
 }
+
 
