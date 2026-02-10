@@ -1,5 +1,8 @@
 ## Inheritance in Java 🌳:
 
+Inheritance is an OOP concept that allows a class (child/derived class) to inherit properties and methods from another class (parent/base class).
+It helps reuse code, organize programs better, and build relationships between classes.
+
 This folder contains beginner-friendly Java examples demonstrating inheritance in Object-Oriented Programming.
 
 ## Concepts Covered:
