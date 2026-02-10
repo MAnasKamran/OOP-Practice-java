@@ -24,6 +24,8 @@ It is mainly used to initialize data members of a class.
 - Methods
 
 - Object creation
+  
+- How to combine constructors with methods for real-world tasks
 
 ## 🎯 What You’ll Learn:
 
@@ -45,6 +47,7 @@ It is mainly used to initialize data members of a class.
 - Distance.java
 - Marks.java
 - Time.java
+- Timer.java
 - CopyConstructorExample.java
 
 Each example is simple and focuses on understanding constructors in Java.
