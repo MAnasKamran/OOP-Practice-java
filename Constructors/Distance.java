@@ -18,7 +18,7 @@ public class Distance {
         System.out.println("Distance: " + feet + "'" + inches);
         System.out.println("Feet: " + feet + " inches: " + inches);
     }
-    static void main(String [] args){
+    public static void main(String [] args){
         Distance d1 = new Distance();
         d1.feet = 8;
         d1.inches = 12;
@@ -27,4 +27,5 @@ public class Distance {
         d2.display();
     }
 }
+
 
