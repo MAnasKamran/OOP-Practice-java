@@ -3,27 +3,35 @@
 
 public class Circle {
     double radius;
-    double pi;
+    String color;
     public Circle(){
-        this.pi = 3.1415;
+        this.color = color;
         this.radius = radius;
     }
-    public Circle(double pi, double radius){
-        this.pi = pi;
+    public Circle(String color, double radius){
+        this.color = color;
         this.radius = radius;
     }
     public double calculateCircumference(){
         double circumference;
-        return circumference = 2 * pi * radius;
+        return circumference = 2 * Math.PI * radius;
+    }
+    public void Display(){
+        System.out.println("                  ");
+        System.out.println("Color: " + color);
+        System.out.println("Circumference: " + calculateCircumference());
     }
     public static void main (String [] args){
         Circle c1 = new Circle();
         c1.radius = 3.1;
-        System.out.println(c1.calculateCircumference());
-        Circle c2 = new Circle(3.1415, 6);
-        System.out.println(c2.calculateCircumference());
-        Circle c3 = new Circle(3.1415, 9.3);
-        System.out.println(c3.calculateCircumference());
+        c1.color = "Red";
+        c1.Display();
+        Circle c2 = new Circle("Black", 6);
+        c2.Display();
+        Circle c3 = new Circle("Blue", 9.3);
+        c3.Display();
     }
 }
+
+
 
